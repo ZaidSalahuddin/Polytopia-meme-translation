@@ -121,7 +121,7 @@
   "world.turn.nomoves": "No more moves available, end turn",
   "world.turn.start": "START",
   "world.turn.exit": "Exit",
-  "world.turn.waiting": "Waiting for a noob called {0} to play...",
+  "world.turn.waiting": "Waiting on a noob called {0}...",
   "world.turn.waiting.unknown": "Waiting for an unknown tribe to play...",
   "world.turn.ready": "Tap save when ready",
   "world.turn.your": "Your turn",
